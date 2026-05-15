@@ -32,6 +32,7 @@
 - SQL
 - SAS
 - SPSS
+- Knime
 
 ### 資料分析
 - 資料清理與 EDA
