@@ -1,7 +1,7 @@
 # Hi, I'm 魏筠庭 👋
 
 🎓 輔仁大學 統計資訊學系應用統計碩士班  
-📊 研究方向：測量誤差模型、集成預測、統計建模、資料分析  
+🌱 個性踏實、有條理，喜歡把複雜問題整理成清楚可執行的流程   
 💻 擅長使用 R / Python 建立可重現分析流程
 
 ---
@@ -47,40 +47,65 @@
 
 ## 📚 Projects｜研究與專案
 
-### 📌 測量誤差模型集成研究
+### 📌 2025臺北國際統計研討會暨第十三屆 ICSA 國際會議
 Comparison and Ensemble Strategies of Measurement Error Correction Methods in Multiple Regression with Validation Data
 
 - 方法：
-  ALS / MALS / CS / SIMEX / Ensemble Learning
+  ALS / MALS /ALSr / CS / MCS/ CSr/ SIMEX / Ensemble Learning
 
 - 指標：
   MSE / MSPE / Bias
 
-- 使用 R 建立可重現模擬流程
+- 以 R建立可重現模擬流程，涵蓋參數設定、模型訓練評估、表格與圖形自動化輸出，並以實際資料進行方法比較與結果驗證。
 
 ---
 
-### 📌 中研院資料科學競賽
-高齡者使用長期照顧服務之影響因素與機制探討
+### 📌 2025 中研院資料科學漫步競賽｜優選
+#### 高齡者使用長期照顧服務之影響因素與機制探討
 
-- Apriori 關聯法則
-- 中介分析
-- 30 萬筆資料分析
+- 分析 30 萬筆以上銀髮資料並處理類別不平衡問題
+- 結合 Apriori 關聯法則與中介分析探討長照使用機制
+- 發現「身心障礙程度 → 家戶結構 → 長照使用」等間接影響路徑
+- 提出高風險族群之預防與即時回饋方向
+
+🔧 Methods：
+`Apriori` `Mediation Analysis` `EDA`
+
+---
+
+### 📌 2024 中研院資料科學漫步競賽｜優選
+#### 幼兒語言發展影響因素分析
+
+- 使用有序羅吉斯迴歸與 Apriori 關聯法則分析幼兒發展資料
+- 探討家庭收入、教育程度、婚姻穩定與語言環境等影響因素
+- 建立可解讀規則與影響路徑分析
+
+🔧 Methods：
+`Ordinal Logistic Regression` `Apriori` `AIC`
+
+---
+
+### 📌 ETF 開盤價預測專案
+#### 多模型比較：以機器學習方法預測 ETF 開盤價
+
+- 比較 ARIMA、Random Forest、SVR、BPN、RNN 等模型表現
+- 使用 ETF 歷史資料預測隔日開盤價
+- RNN 在多數 ETF 上具有最佳預測表現
+- 建立互動式網頁展示模型結果
+
+🔧 Methods：
+`BPN` `RNN` `Random Forest` `SVR` `ARIMA`
 
 ---
 
 ## 🏆 Experience｜經歷
 
 - 2025 ICSA 國際統計研討會 海報發表
-- 中研院資料科學漫步競賽 優選
+- 2024、2025中研院資料科學漫步競賽 優選
 - 國科會研究助理
-- iRent 智能客服分析實習
+- iRent 智能客服部暑期實習
 
----
 
-## 📫 Contact
-
-📧 judyjudy1399@gmail.com
 
 Here are some ideas to get you started:
 
